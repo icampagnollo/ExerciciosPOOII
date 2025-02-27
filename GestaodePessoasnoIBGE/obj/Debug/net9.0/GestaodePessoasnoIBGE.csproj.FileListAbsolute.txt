@@ -1,0 +1,14 @@
+C:\Users\isabe\source\repos\GestaodePessoasnoIBGE\obj\Debug\net9.0\GestaodePessoasnoIBGE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\source\repos\GestaodePessoasnoIBGE\obj\Debug\net9.0\GestaodePessoasnoIBGE.AssemblyInfoInputs.cache
+C:\Users\isabe\source\repos\GestaodePessoasnoIBGE\obj\Debug\net9.0\GestaodePessoasnoIBGE.AssemblyInfo.cs
+C:\Users\isabe\source\repos\GestaodePessoasnoIBGE\obj\Debug\net9.0\GestaodePessoasnoIBGE.csproj.CoreCompileInputs.cache
+C:\Users\isabe\source\repos\GestaodePessoasnoIBGE\bin\Debug\net9.0\GestaodePessoasnoIBGE.exe
+C:\Users\isabe\source\repos\GestaodePessoasnoIBGE\bin\Debug\net9.0\GestaodePessoasnoIBGE.deps.json
+C:\Users\isabe\source\repos\GestaodePessoasnoIBGE\bin\Debug\net9.0\GestaodePessoasnoIBGE.runtimeconfig.json
+C:\Users\isabe\source\repos\GestaodePessoasnoIBGE\bin\Debug\net9.0\GestaodePessoasnoIBGE.dll
+C:\Users\isabe\source\repos\GestaodePessoasnoIBGE\bin\Debug\net9.0\GestaodePessoasnoIBGE.pdb
+C:\Users\isabe\source\repos\GestaodePessoasnoIBGE\obj\Debug\net9.0\GestaodePessoasnoIBGE.dll
+C:\Users\isabe\source\repos\GestaodePessoasnoIBGE\obj\Debug\net9.0\refint\GestaodePessoasnoIBGE.dll
+C:\Users\isabe\source\repos\GestaodePessoasnoIBGE\obj\Debug\net9.0\GestaodePessoasnoIBGE.pdb
+C:\Users\isabe\source\repos\GestaodePessoasnoIBGE\obj\Debug\net9.0\GestaodePessoasnoIBGE.genruntimeconfig.cache
+C:\Users\isabe\source\repos\GestaodePessoasnoIBGE\obj\Debug\net9.0\ref\GestaodePessoasnoIBGE.dll
