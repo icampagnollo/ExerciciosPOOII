@@ -1,0 +1,14 @@
+C:\Users\isabe\source\repos\SupermercadodaMae\bin\Debug\net9.0\SupermercadodaMae.exe
+C:\Users\isabe\source\repos\SupermercadodaMae\bin\Debug\net9.0\SupermercadodaMae.deps.json
+C:\Users\isabe\source\repos\SupermercadodaMae\bin\Debug\net9.0\SupermercadodaMae.runtimeconfig.json
+C:\Users\isabe\source\repos\SupermercadodaMae\bin\Debug\net9.0\SupermercadodaMae.dll
+C:\Users\isabe\source\repos\SupermercadodaMae\bin\Debug\net9.0\SupermercadodaMae.pdb
+C:\Users\isabe\source\repos\SupermercadodaMae\obj\Debug\net9.0\SupermercadodaMae.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\source\repos\SupermercadodaMae\obj\Debug\net9.0\SupermercadodaMae.AssemblyInfoInputs.cache
+C:\Users\isabe\source\repos\SupermercadodaMae\obj\Debug\net9.0\SupermercadodaMae.AssemblyInfo.cs
+C:\Users\isabe\source\repos\SupermercadodaMae\obj\Debug\net9.0\SupermercadodaMae.csproj.CoreCompileInputs.cache
+C:\Users\isabe\source\repos\SupermercadodaMae\obj\Debug\net9.0\SupermercadodaMae.dll
+C:\Users\isabe\source\repos\SupermercadodaMae\obj\Debug\net9.0\refint\SupermercadodaMae.dll
+C:\Users\isabe\source\repos\SupermercadodaMae\obj\Debug\net9.0\SupermercadodaMae.pdb
+C:\Users\isabe\source\repos\SupermercadodaMae\obj\Debug\net9.0\SupermercadodaMae.genruntimeconfig.cache
+C:\Users\isabe\source\repos\SupermercadodaMae\obj\Debug\net9.0\ref\SupermercadodaMae.dll
