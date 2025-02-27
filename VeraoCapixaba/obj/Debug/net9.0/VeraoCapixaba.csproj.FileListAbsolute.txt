@@ -1,0 +1,14 @@
+C:\Users\isabe\source\repos\VeraoCapixaba\bin\Debug\net9.0\VeraoCapixaba.exe
+C:\Users\isabe\source\repos\VeraoCapixaba\bin\Debug\net9.0\VeraoCapixaba.deps.json
+C:\Users\isabe\source\repos\VeraoCapixaba\bin\Debug\net9.0\VeraoCapixaba.runtimeconfig.json
+C:\Users\isabe\source\repos\VeraoCapixaba\bin\Debug\net9.0\VeraoCapixaba.dll
+C:\Users\isabe\source\repos\VeraoCapixaba\bin\Debug\net9.0\VeraoCapixaba.pdb
+C:\Users\isabe\source\repos\VeraoCapixaba\obj\Debug\net9.0\VeraoCapixaba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\source\repos\VeraoCapixaba\obj\Debug\net9.0\VeraoCapixaba.AssemblyInfoInputs.cache
+C:\Users\isabe\source\repos\VeraoCapixaba\obj\Debug\net9.0\VeraoCapixaba.AssemblyInfo.cs
+C:\Users\isabe\source\repos\VeraoCapixaba\obj\Debug\net9.0\VeraoCapixaba.csproj.CoreCompileInputs.cache
+C:\Users\isabe\source\repos\VeraoCapixaba\obj\Debug\net9.0\VeraoCapixaba.dll
+C:\Users\isabe\source\repos\VeraoCapixaba\obj\Debug\net9.0\refint\VeraoCapixaba.dll
+C:\Users\isabe\source\repos\VeraoCapixaba\obj\Debug\net9.0\VeraoCapixaba.pdb
+C:\Users\isabe\source\repos\VeraoCapixaba\obj\Debug\net9.0\VeraoCapixaba.genruntimeconfig.cache
+C:\Users\isabe\source\repos\VeraoCapixaba\obj\Debug\net9.0\ref\VeraoCapixaba.dll
